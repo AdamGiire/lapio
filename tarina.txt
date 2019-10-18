@@ -7,6 +7,6 @@ Tehtävä 3: Committien harjoittelua 100%
     Kun olet tehnyt kaikki edellä mainitut muutokset, tee yhteensä kolme committia: yksi, jossa lisäät tarinan, toinen, jossa lisäät ostoslistan, ja kolmas, jossa lisäät kouluprojektikansion sisällön. Kirjoita commiteille kuvaavat otsikot.
     Tarkista komennolla git log, että olet luonut kolme committia.
     Muuta ostoslistalta jokin ostos, ja tee vielä yksi commit. Käytä muutoksen lisäämisessä komentoa git add -p.
-    Tarkista, että kaikki commitit näkyvät git log-komennolla.
+    Tarkista, että kaikki commitit näkyvät git log-komennolla?!
 
 
