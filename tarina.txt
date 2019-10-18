@@ -1,4 +1,4 @@
-Tehtävä 3: Committien harjoittelua 10%
+Tehtävä 3: Committien harjoittelua 100%
 
     Luo kansio komentorivillä ja tee siitä Git-projekti.
     Luo projektikansioosi tiedosto nimeltä tarina.txt. Lisää sinne jokin pitkä pätkä tekstiä.
